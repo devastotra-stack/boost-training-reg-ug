@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local secrets — never commit a real UPI QR with your bank details
+# (the deploy expects assets/upi-qr.png; remove the next line if your
+#  QR is safe to publish)
+# assets/upi-qr.png
+
+# Build / preview
+node_modules/
+.cache/
+.parcel-cache/
+dist/
+
+# Firecrawl scratch (internal scrape dumps)
+.firecrawl/
+
+# Unused asset (downloaded for reference, not in page)
+assets/kj-group.png
+
+# Apps Script working dir (clasp credentials should never be committed)
+apps_script/
+# Clasp local creds
+.clasprc.json
