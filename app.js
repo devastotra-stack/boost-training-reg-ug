@@ -6,7 +6,7 @@
    ============================================================ */
 
 // REPLACE_ME: paste the UG Apps Script Web App /exec URL after deploy
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/REPLACE_ME_UG_DEPLOYMENT_ID/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw8eW2VqRaNdSkot4PmxXZ1hjywa8WwU1LIV4y5FihbUgvRMeyU7TPmzwNdlF4fZvAF/exec";
 
 const form     = document.getElementById("regForm");
 const status   = document.getElementById("formStatus");
