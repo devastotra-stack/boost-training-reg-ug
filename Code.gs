@@ -139,12 +139,14 @@ Dates: ${TRAINING_DATES}
 Venue: ${TRAINING_VENUE}
 Instruments selected: ${body.instruments}
 
-Registration: Free for UG Nutrition (Honours) students of Belda
-College. Please carry your College ID card on Day 1 (18 May 2026,
-09:30 IST) for verification at the registration desk.
+Registration fee: Rs 200 per participant. Online payment details
+(UPI handle / bank transfer link) will be shared with you separately
+by email and WhatsApp within 24 hours. Your seat is confirmed only
+after the payment is received and verified.
 
 Please bring a lab coat, safety goggles, a notebook, and your
-College ID card.
+College ID card on Day 1. Carry the payment confirmation /
+screenshot for cross-checking at the registration desk.
 
 If you did not initiate this registration, reply to this mail.
 

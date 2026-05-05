@@ -128,7 +128,9 @@ function showThanks(data) {
       <p>Save these dates: <strong>18-19 May 2026</strong>.
          Bring a lab coat, a notebook, and your
          <strong>College ID card</strong> for verification on Day 1.
-         Registration is free for UG Nutrition (H) students of Belda College.</p>
+         <strong>Online payment details (UPI / bank link) for the Rs 200 fee
+         will be shared</strong> by email and WhatsApp within 24 hours;
+         your seat is confirmed only after payment is verified.</p>
     </div>
     <button type="button" class="submit-btn" onclick="location.reload()">Register another participant</button>
   `;
