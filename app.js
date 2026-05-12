@@ -125,7 +125,7 @@ function showThanks(data) {
          Dietary Fibre Estimation has been logged.</p>
       <p>A confirmation email will follow at
          <strong>${escapeHtml(data.email)}</strong> within 24 hours.</p>
-      <p>Save these dates: <strong>18-19 May 2026</strong>.
+      <p>Save these dates: <strong>19-20 May 2026</strong>.
          Bring a lab coat, a notebook, and your
          <strong>College ID card</strong> for verification on Day 1.
          <strong>Online payment details (UPI / bank link) for the Rs 200 fee

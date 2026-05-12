@@ -11,7 +11,7 @@ const SHEET_ID = "REPLACE_ME_UG_SPREADSHEET_ID"; // open the UG Sheet -> URL -> 
 const SHEET_TAB = "UG_Registrations";
 const NOTIFY_EMAIL = "devastotrapoddar@beldacollege.ac.in";
 const SEND_USER_CONFIRMATION = true;
-const TRAINING_DATES = "18-19 May 2026";
+const TRAINING_DATES = "19-20 May 2026";
 const TRAINING_VENUE = "Belda College, Paschim Medinipur";
 
 // UG portal: single category, 50 seats.
